@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #a92727;
+    background-color: #bcaf39;
   }
   
   header {
     background-color: #333;
-    color: #612626;
+    color: #f4f2f2;
     text-align: center;
     padding: 10px;
   }
@@ -35,7 +35,7 @@ body {
   
   .menu-item {
     flex: 1 0 300px;
-    background-color: #fff;
+    background-color: #fafbfa;
     padding: 15px;
     margin: 10px;
     border-radius: 5px;
